@@ -6,7 +6,7 @@
     }
   },
   "require": {
-    "turbolabit/php-encryptor-pack": "dev-main"
+    "turbolabit/php-encryptor": "dev-main"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
