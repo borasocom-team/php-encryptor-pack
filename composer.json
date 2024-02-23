@@ -1,0 +1,13 @@
+{
+  "name": "boraso/php-encryptor-pack",
+  "autoload": {
+    "psr-4": {
+      "Boraso\\Encryptor\\": "TurboLabIt/Encryptor/src"
+    }
+  },
+  "require": {
+    "turbolabit/php-encryptor-pack": "dev-main"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
